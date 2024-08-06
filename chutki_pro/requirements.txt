@@ -1,0 +1,8 @@
+Flask==2.0.3
+flask-cors==3.0.10
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+wikipedia==1.4.0
+pyautogui==0.9.53
+screen-brightness-control==0.15.1
+psutil==5.9.0
